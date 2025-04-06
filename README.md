@@ -1,1 +1,1 @@
-# myshit
+# CS50 (Practice)
